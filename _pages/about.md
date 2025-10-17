@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: at UCSC
+subtitle: 
 
 profile:
   align: right
