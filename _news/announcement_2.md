@@ -1,6 +1,5 @@
 ---
 layout: post
-title: CANSSI-NISS seminar
 date: 2015-03-20
 inline: false
 related_posts: false
