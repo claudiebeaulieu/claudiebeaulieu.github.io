@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper assessing whether a global warming acceleration is detectable was just published: https://www.nature.com/articles/s43247-024-01711-1 
+Our new [paper](https://www.nature.com/articles/s43247-024-01711-1) assessing whether a global warming acceleration is detectable was just published!

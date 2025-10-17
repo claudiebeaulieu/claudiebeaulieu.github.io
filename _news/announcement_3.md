@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dongran defended her thesis today, congratulations Dr Zhai! :sparkles: 
+Dongran defended her thesis today, congratulations Dr Zhai! :sparkles: :graduation_cap:
