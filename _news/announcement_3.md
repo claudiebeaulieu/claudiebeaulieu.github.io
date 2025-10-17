@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Dongran defended her thesis today, congratulations Dr Zhai! :sparkles: :smile:

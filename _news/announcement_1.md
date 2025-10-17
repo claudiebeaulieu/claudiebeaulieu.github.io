@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-2214 
+title: New paper!
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new paper assessing whether a global warming acceleration is detectable was just published: https://www.nature.com/articles/s43247-024-01711-1 
