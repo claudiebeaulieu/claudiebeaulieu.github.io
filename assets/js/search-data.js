@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-new-paper-assessing-whether-a-global-warming-acceleration-is-detectable-was-just-published-https-www-nature-com-articles-s43247-024-01711-1",
+            },},{id: "news-our-new-paper-assessing-whether-a-global-warming-acceleration-is-detectable-was-just-published",
           title: 'Our new paper assessing whether a global warming acceleration is detectable was just...',
           description: "",
-          section: "News",},{id: "news-claudie-gave-a-seminar-with-rebecca-kicking-off-the-new-niss-canssi-collaborative-data-science-series-https-www-niss-org-news-kicking-niss-canssi-collaborative-data-science-series-climate-change-through-statistical-lens",
+          section: "News",},{id: "news-claudie-gave-a-seminar-with-rebecca-kicking-off-the-new-niss-canssi-collaborative-data-science-series",
           title: 'Claudie gave a seminar with Rebecca, kicking-off the new NISS-CANSSI Collaborative Data Science...',
           description: "",
-          section: "News",},{id: "news-dongran-defended-her-thesis-today-congratulations-dr-zhai-sparkles",
-          title: 'Dongran defended her thesis today, congratulations Dr Zhai! :sparkles:',
+          section: "News",},{id: "news-dongran-defended-her-thesis-today-congratulations-dr-zhai-sparkles-graduation-cap",
+          title: 'Dongran defended her thesis today, congratulations Dr Zhai! :sparkles: :graduation_cap:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
