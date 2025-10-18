@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: FullLogo.jpeg
+  image: FullLogo_Transparent_NoBuffer.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
