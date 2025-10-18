@@ -27,7 +27,7 @@ announcements:
 ---
 
 
-#This website is under construction!
+# This website is under construction!
 
 We are a research group affiliated with the [Ocean Sciences department](https://ocean.ucsc.edu/) at the [University of California Santa Cruz](https://www.ucsc.edu/). We bridge the gap between ocean and climate sciences, and statistics and data science.
 
