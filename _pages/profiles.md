@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab
+description: current lab members
 nav: true
 nav_order: 2
 
@@ -13,8 +13,8 @@ profiles:
     image: IconOnly_NoBuffer.png
     content: about_claudie.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Claudie Beaulieu</p>
+    more_info: 
+
   - align: left
     image: IconOnly_NoBuffer.png
     content: about_claudie.md
