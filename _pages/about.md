@@ -11,6 +11,8 @@ profile:
   more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+years: [2024, 2023]
+
 social: false # includes social icons at the bottom of the page
 
 announcements:
