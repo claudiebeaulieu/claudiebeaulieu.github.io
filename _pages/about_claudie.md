@@ -1,0 +1,3 @@
+## Claudie Beaulieu, Principal Investigator
+
+I am an associate professor in the Ocean Sciences Department at UC Santa Cruz. I am interested in quantifying ocean & climate variability and change through advanced statistical and machine learning tools. Before moving to Santa Cruz, I spent five years in the School of Ocean and Earth Sciences at the University of Southampton in the UK. Before that, I did a postdoc with Jorge Sarmiento at Princeton University and worked with Taha Ouarda at INRS-ETE and Ousmane Seidou at University of Ottawa during my PhD. Link to my [cv here.](https://claudiebeaulieu.github.io/cv/) Link to my [Google Scholar here.](https://scholar.google.com/citations?user=kIrFYFcAAAAJ&hl=en)
