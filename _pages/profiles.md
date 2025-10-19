@@ -16,7 +16,7 @@ profiles:
     more_info: 
 
   - align: left
-    image: IconOnly_NoBuffer.png
+    image: adelicia.jpg
     content: about_adelicia.md
     image_circular: true # crops the image to make it circular
     more_info: 
