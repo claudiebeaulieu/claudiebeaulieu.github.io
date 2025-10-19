@@ -42,16 +42,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-new-paper-assessing-whether-a-global-warming-acceleration-is-detectable-was-just-published",
+          title: 'Our new paper assessing whether a global warming acceleration is detectable was just...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-claudie-gave-a-seminar-with-rebecca-kicking-off-the-new-niss-canssi-collaborative-data-science-series",
+          title: 'Claudie gave a seminar with Rebecca, kicking-off the new NISS-CANSSI Collaborative Data Science...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-dongran-defended-her-thesis-today-congratulations-dr-zhai-sparkles",
+          title: 'Dongran defended her thesis today, congratulations Dr Zhai! :sparkles:',
+          description: "",
+          section: "News",},{id: "news-claudie-is-back-in-santa-cruz-after-a-year-long-sabbatical-in-princeton-thank-you-tigers-tiger2",
+          title: 'Claudie is back in Santa Cruz after a year-long sabbatical in Princeton! Thank...',
           description: "",
           section: "News",},{
         id: 'social-email',
