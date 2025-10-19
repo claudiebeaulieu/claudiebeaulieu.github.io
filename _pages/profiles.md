@@ -17,20 +17,19 @@ profiles:
 
   - align: left
     image: IconOnly_NoBuffer.png
-    content: about_claudie.md
+    content: about_adelicia.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Claudie Beaulieu</p>
+    more_info: 
+
   - align: right
     image: IconOnly_NoBuffer.png
-    content: about_claudie.md
+    content: about_dongran.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Claudie Beaulieu</p>
+    more_info: 
+
   - align: left
     image: IconOnly_NoBuffer.png
-    content: about_claudie.md
+    content: about_nico.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Claudie Beaulieu</p>
+    more_info: 
 ---
