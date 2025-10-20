@@ -32,8 +32,11 @@ profiles:
     content: about_nico.md
     image_circular: true # crops the image to make it circular
     more_info: 
+
+  - align: right
+    image: 
+    content: about_alumni.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
 ---
 
-## Previous lab members:
-
-xyz
