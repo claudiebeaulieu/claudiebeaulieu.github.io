@@ -1,4 +1,4 @@
-## Lab alumni
+# Lab alumni
 
 ### Graduated students
 
