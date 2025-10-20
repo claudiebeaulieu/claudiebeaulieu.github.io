@@ -12,24 +12,24 @@ profiles:
   - align: right
     image: claudie.jpg
     content: about_claudie.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 
   - align: left
     image: adelicia.jpg
     content: about_adelicia.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 
   - align: right
     image: dongran.jpg
     content: about_dongran.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 
   - align: left
     image: nico.jpg
     content: about_nico.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 ---
