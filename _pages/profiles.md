@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: current lab members
+description: [interested in joining us?](https://claudiebeaulieu.github.io/join/)
 nav: true
 nav_order: 2
 
