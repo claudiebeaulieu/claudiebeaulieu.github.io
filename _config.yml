@@ -143,6 +143,7 @@ exclude:
   - vendor
   - _pages/books.md
   - _pages/dropdown.md
+  - cv.md
 
 keep_files:
   - CNAME
