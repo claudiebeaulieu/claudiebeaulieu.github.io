@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-# This page is under construction
-
 At UCSC, the overall goal of my teaching is to equip the next generation of environmental sciences students with data science skills. I teach at all levels, from large lower division introductory classes to small graduate level specialized classes. All my classes use the R programming language. Below, you fill find a list of classes I teach on a regular basis, with link to syllabus.
 
 
