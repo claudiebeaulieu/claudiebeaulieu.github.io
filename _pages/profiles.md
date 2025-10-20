@@ -28,7 +28,7 @@ profiles:
     more_info: 
 
   - align: left
-    image: IconOnly_NoBuffer.png
+    image: nico.jpg
     content: about_nico.md
     image_circular: true # crops the image to make it circular
     more_info: 
