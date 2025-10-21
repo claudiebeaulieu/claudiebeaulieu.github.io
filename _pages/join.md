@@ -23,4 +23,3 @@ If you are a student with strong quantitative skills looking to obtain a [PhD/MS
 
 Please reach out if you are interested in applying to postdoctoral fellowships to join our lab with a description of your background, research interests and goals for your postdoctoral research. Potential postdoctoral fellowships include the [University of California President’s Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/), the [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc) and [NSF Postdoctoral Fellowships](https://www.nsf.gov/funding/postdocs).
 
-Email: beaulieu at ucsc dot edu
