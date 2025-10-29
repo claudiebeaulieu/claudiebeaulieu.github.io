@@ -34,6 +34,12 @@ profiles:
     more_info: 
 
   - align: right
+    image: joelle.jpg
+    content: about_joelle.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
+
+  - align: left
     image: 
     content: about_alumni.md
     image_circular: true # crops the image to make it circular
