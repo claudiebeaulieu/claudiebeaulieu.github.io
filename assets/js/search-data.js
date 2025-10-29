@@ -54,6 +54,9 @@ ninja.data = [{
           section: "News",},{id: "news-claudie-is-back-in-santa-cruz-after-a-year-long-sabbatical-in-princeton-thank-you-tigers-tiger2",
           title: 'Claudie is back in Santa Cruz after a year-long sabbatical in Princeton! Thank...',
           description: "",
+          section: "News",},{id: "news-check-out-our-new-preprint",
+          title: 'Check out our new preprint!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
