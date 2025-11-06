@@ -13,6 +13,10 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 years: [2024, 2023]
 
+scholar:
+  sort_by: year
+  order: descending  # can be either "ascending" or "descending"
+
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -21,6 +25,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-We are a research group affiliated with the [Ocean Sciences department](https://ocean.ucsc.edu/) at the [University of California Santa Cruz](https://www.ucsc.edu/). We bridge the gap between ocean and climate sciences, and data science.
+We are a research group affiliated with the [Ocean Sciences department](https://ocean.ucsc.edu/) at the [University of California Santa Cruz](https://www.ucsc.edu/). We bridge the gap between data science and ocean and climate sciences.
 
-Recent advances in climate and ocean monitoring, observational platforms, measurement techniques, and Earth System models contribute to a rapid increase in quality and quantity of available data. Our efforts are based on a range of interdisciplinary approaches that implement statistics and data science to make best use of observations and outputs from model simulations. We aim to better quantify and understand natural variability and change, and impacts on humans and ecosystems.
+Recent advances in climate and ocean monitoring, observational platforms, measurement techniques, and Earth System models contribute to a rapid increase in quality and quantity of available data. Our efforts are based on a range of interdisciplinary approaches that implement statistics and machine learning techniques to make best use of observations and outputs from model simulations. We aim to better quantify and understand natural variability and human-caused change, and their impacts on the health of humans and ecosystems.
