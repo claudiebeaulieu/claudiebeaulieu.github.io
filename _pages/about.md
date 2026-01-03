@@ -25,6 +25,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-We are a research group affiliated with the [Ocean Sciences department](https://ocean.ucsc.edu/) at the [University of California Santa Cruz](https://www.ucsc.edu/). We bridge the gap between data science and ocean and climate sciences.
+We are a research group affiliated with the [Ocean Sciences department](https://ocean.ucsc.edu/) at the [University of California Santa Cruz](https://www.ucsc.edu/). We bridge the gap between data science, oceanography and climate science.
 
 Recent advances in climate and ocean monitoring, observational platforms, measurement techniques, and Earth System models contribute to a rapid increase in quality and quantity of available data. Our efforts are based on a range of interdisciplinary approaches that implement statistics and machine learning techniques to make best use of observations and outputs from model simulations. We aim to better quantify and understand natural variability and human-caused change, and their impacts on the health of humans and ecosystems.
