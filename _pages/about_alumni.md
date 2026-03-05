@@ -2,6 +2,7 @@
 
 ### Graduated students
 
+* Dongran Zhai (PhD)
 * Courtney Stratton (Master’s)
 * Katerina Giamalaki (Postdoc, PhD, Master’s), now at Moody’s Analytics, London
 * Delphine Lobelle (PhD), now at Fugro
