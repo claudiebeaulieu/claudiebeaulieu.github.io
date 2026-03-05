@@ -4,5 +4,5 @@ Dongran is a Research Fellow in Ocean Sciences at UCSC. She received a PhD in Oc
 
 Email: dzhai at ucsc dot edu  
 [Dongran's website](https://www.dongranzhai.com/en/)
-[Google Scholar](https://scholar.google.com/citations?user=2O8Mr0oAAAAJ&hl=zh-CN)  
 
+[Google Scholar](https://scholar.google.com/citations?user=2O8Mr0oAAAAJ&hl=zh-CN)  
