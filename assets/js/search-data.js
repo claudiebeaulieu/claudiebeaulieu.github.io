@@ -57,8 +57,8 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-our-new-preprint",
           title: 'Check out our new preprint!',
           description: "",
-          section: "News",},{id: "news-dongran-just-started-a-postdoc-at-tsinghua-university",
-          title: 'Dongran just started a postdoc at Tsinghua University!',
+          section: "News",},{id: "news-dongran-just-started-a-postdoc-at-tsinghua-university-congratulations",
+          title: 'Dongran just started a postdoc at Tsinghua University, congratulations!',
           description: "",
           section: "News",},{
         id: 'social-email',
