@@ -2,15 +2,16 @@
 
 ### Graduated students
 
-* Dongran Zhai (PhD)
-* Courtney Stratton (Master’s)
-* Katerina Giamalaki (Postdoc, PhD, Master’s), now at Moody’s Analytics, London
+* Dongran Zhai (PhD), now postdoc at Tsinghua University
+* Courtney Stratton (Master’s), now at Integral Consulting
+* Grace Pearsall (Master's)
+* Katerina Giamalaki (Postdoc, PhD, Master’s), now at University of Hawaiʻi at Mānoa
 * Delphine Lobelle (PhD), now at Fugro
 * Stephanie Allen (PhD), now at Plymouth Marine Laboratory
-* Matthew Hammond (PhD), now at National Oceanography Centre Southampton
+* Matthew Hammond (PhD), now at CEAZA, Chile
 * Renata Stella Khouri (PhD), now at University of Cambridge
-* Gayatri Dudeja (PhD)
-* Andrew Gravelle (PhD)
+* Gayatri Dudeja (PhD), now at Full Stack
+* Andrew Gravelle (PhD), now at MetOcean Norway
 * Monica Hanley (Master’s), now at British Oceanographic Data Centre
 * Lindan Zhang (Master’s)
 * Douglas Warden (Master’s)
