@@ -60,8 +60,8 @@ ninja.data = [{
           section: "News",},{id: "news-dongran-just-started-a-postdoc-at-tsinghua-university-congratulations",
           title: 'Dongran just started a postdoc at Tsinghua University, congratulations!',
           description: "",
-          section: "News",},{id: "news-the-beta-version-of-our-dashboard-to-monitor-local-temperature-rates-is-now-live-check-it-out-https-claudiebeaulieu-temperaturedashboard-share-connect-posit-cloud",
-          title: 'The beta version of our dashboard to monitor local temperature rates is now...',
+          section: "News",},{id: "news-the-beta-version-of-the-temperature-trends-explorer-dashboard-is-now-live-check-it-out-here",
+          title: 'The beta version of the Temperature Trends Explorer dashboard is now live, check...',
           description: "",
           section: "News",},{
         id: 'social-email',
