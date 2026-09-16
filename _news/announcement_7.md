@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The beta version of our dashboard to monitor local temperature rates is now live, check it out (https://claudiebeaulieu-temperaturedashboard.share.connect.posit.cloud)!
+The beta version of the Temperature Trends Explorer dashboard is now live, check it out [here](https://claudiebeaulieu-temperaturedashboard.share.connect.posit.cloud)!
