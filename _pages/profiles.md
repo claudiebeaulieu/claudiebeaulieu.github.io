@@ -16,26 +16,20 @@ profiles:
     more_info: 
 
   - align: left
-    image: dongran.jpg
-    content: about_dongran.md
-    image_circular: true # crops the image to make it circular
-    more_info: 
-
-  - align: right
     image: adelicia.jpg
     content: about_adelicia.md
     image_circular: true # crops the image to make it circular
     more_info: 
 
-  - align: left
-    image: nico.jpg
-    content: about_nico.md
+  - align: right
+    image: samarth.jpg
+    content: about_samarth.md
     image_circular: true # crops the image to make it circular
     more_info: 
 
-  - align: right
-    image: joelle.jpg
-    content: about_joelle.md
+  - align: left
+    image: dongran.jpg
+    content: about_dongran.md
     image_circular: true # crops the image to make it circular
     more_info: 
 
