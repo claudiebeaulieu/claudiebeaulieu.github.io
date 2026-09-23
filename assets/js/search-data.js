@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-beta-version-of-the-temperature-trends-explorer-dashboard-is-now-live-check-it-out-here",
           title: 'The beta version of the Temperature Trends Explorer dashboard is now live, check...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-regional-warming-accelerations-is-now-published-in-nature-communications-check-it-out-here-and-here-is-the-link-to-the-ucsc-press-release",
+          title: 'Our paper on regional warming accelerations is now published in Nature Communications! Check...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
