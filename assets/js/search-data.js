@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-regional-warming-accelerations-is-now-published-in-nature-communications-the-paper-is-discussed-in-a-ucsc-press-release",
           title: 'Our paper on regional warming accelerations is now published in Nature Communications! The...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-regional-warming-accelerations-was-selected-for-the-editor-s-highlights-at-nature-communications",
+          title: 'Our paper on regional warming accelerations was selected for the Editor’s Highlights at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
